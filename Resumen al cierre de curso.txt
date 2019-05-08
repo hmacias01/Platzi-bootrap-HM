@@ -1,0 +1,5 @@
+
+
+Los Crollpy: Sirven para saber la ubicacion del usuario dentro del sitio, marcando de color los titulos del header
+
+Modals: muestran una ventana emergente dentro de la pantalla. 
